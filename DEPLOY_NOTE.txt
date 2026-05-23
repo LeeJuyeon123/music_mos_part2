@@ -1,0 +1,14 @@
+This folder is ready to become a standalone GitHub Pages repository.
+
+Recommended repo name:
+- music_mos_part2
+
+What to publish:
+- index.html
+- audio/music_mos/
+- .nojekyll
+
+Question range:
+- 11 to 20
+
+Do not publish the answer key JSON in a public repository.
